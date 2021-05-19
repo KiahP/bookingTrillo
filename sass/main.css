@@ -426,7 +426,7 @@ body {
 
 @media only screen and (max-width: 37.5em) {
   .overview__rating {
-    padding: 0 1.5rem;
+    paddding: 0 1.5rem;
   }
 }
 
@@ -559,7 +559,7 @@ body {
   width: 1rem;
   margin-right: .7rem;
   background-color: var(--color-primary);
-  -webkit-mask-image: url(../img/chevron-thin-right.svg);
+  -webkit-mask-image: url(/chevron-thin-right.svg);
   -webkit-mask-size: cover;
 }
 
